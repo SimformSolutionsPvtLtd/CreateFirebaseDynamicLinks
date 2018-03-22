@@ -41,12 +41,12 @@ static let link:String                      =  "your_app_web_site"   //"http://w
 //iOS Params
 static let appStoreID:String                = "your_appstore_id"
 static let bundleID:String                  = "your_app_bundle_id"
-static let iOSFallbackUrl:String            = "your_app_appstore_link"  //"https://itunes.apple.com/us/app/soulswipe-black-dating-done/id938140452?mt=8"
+static let iOSFallbackUrl:String            = "your_app_appstore_link" 
 static let minimumAppVersion:String         = "your_app_minimum_app_version"
 
 //Andriod Params
 static let packageName:String               = "your_app_package_name"
-static let androidFallbackURL:String        = "your_app_playstore_link"  //"https://play.google.com/store/apps/details?id=com.soulswipe"
+static let androidFallbackURL:String        = "your_app_playstore_link"
 static let minimumVersion:String            = "minimum_version"
 
 // put this BudleId in customURLScheme -> ProjectNavigator -> select Target -> info -> URL Types
